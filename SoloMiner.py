@@ -1,4 +1,4 @@
-from colorama import Fore, Style
+from colorama import Fore, Style 
 from threading import Thread
 import requests
 import binascii
